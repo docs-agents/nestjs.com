@@ -7,7 +7,7 @@
 [linux-image]: https://img.shields.io/travis/nestjs/nest/master.svg?label=linux
 [linux-url]: https://travis-ci.org/nestjs/nest
 
-  <p align="center">A progressive <a href="http://nodejs.org" target="blank">Node.js</a> framework for building efficient and scalable server-side applications.</p>
+  <p align="center">一款先进的 <a href="http://nodejs.org" target="blank">Node.js</a> 框架，用于构建高效、可扩展的服务端应用程序。</p>
     <p align="center">
 <a href="https://www.npmjs.com/~nestjscore"><img src="https://img.shields.io/npm/v/@nestjs/core.svg" alt="NPM Version" /></a>
 <a href="https://www.npmjs.com/~nestjscore"><img src="https://img.shields.io/npm/l/@nestjs/core.svg" alt="Package License" /></a>
@@ -21,33 +21,33 @@
   <!--[![Backers on Open Collective](https://opencollective.com/nest/backers/badge.svg)](https://opencollective.com/nest#backer)
   [![Sponsors on Open Collective](https://opencollective.com/nest/sponsors/badge.svg)](https://opencollective.com/nest#sponsor)-->
 
-## Description
+## 简介
 
-Repository contains [nestjs.com](https://nestjs.com) source code, the official Nest website.
+该仓库包含 [nestjs.com](https://nestjs.com) 源代码，即 Nest 官方网站。
 
-## Developing
+## 开发
 
-Navigate to `http://localhost:1234/`.
+访问 `http://localhost:1234/`。
 
 ```
 $ npm install
 $ npm run start
 ```
 
-## Build
+## 构建
 
-Run `npm run build` to build the project. The build artifacts will be stored in the `dist/` directory.
+运行 `npm run build` 来构建项目。构建产物将存储在 `dist/` 目录中。
 
-## Support
+## 支持
 
-Nest is an MIT-licensed open source project. It can grow thanks to the sponsors and support by the amazing backers. If you'd like to join them, please [read more here](https://opencollective.com/nest).
+Nest 是一个 MIT 协议授权的开源项目。它能够持续发展，得益于赞助商和众多支持者的帮助。如果您想加入他们，请[了解更多](https://opencollective.com/nest)。
 
-## Stay in touch
+## 保持联系
 
-- Author - [Kamil Myśliwiec](https://twitter.com/kammysliwiec)
-- Website - [https://nestjs.com](https://nestjs.com/)
+- 作者 - [Kamil Myśliwiec](https://twitter.com/kammysliwiec)
+- 官网 - [https://nestjs.com](https://nestjs.com/)
 - Twitter - [@nestframework](https://twitter.com/nestframework)
 
-## License
+## 许可证
 
-Nest is [MIT licensed](LICENSE).
+Nest 是 [MIT 协议授权](LICENSE)。
